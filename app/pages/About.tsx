@@ -7,7 +7,7 @@ const About = (props: Props) => {
   return (
     <div id="about">
       <SectionTitle title="About Me" />
-      <section id="about" className="container px-[50px]">
+      <section id="about" className="container px-[100px]">
         <div className="text-center">
           <p>I am Lungelo Zulu (known to many as Smile/Smiles)</p>
           <br />
