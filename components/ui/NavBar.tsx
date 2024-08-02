@@ -11,7 +11,7 @@ const NavBar = (props: Props) => {
     { name: 'Contact', href: '#contact' },
   ];
   return (
-    <nav className="flex items-center justify-between w-full py-4 md:py-0 px-[50px] text-lg ">
+    <nav className="bg-white text-black flex items-center justify-between w-full py-4 md:py-0 px-[50px] text-lg ">
       <div className="">
         <h2 className="text-3xl font-bold">LUNGELO ZULU</h2>
       </div>
